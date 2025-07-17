@@ -23,10 +23,10 @@ I’m looking for opportunities as a **Web Developer** or **Software Engineer**,
 
 ## 📫 Let's Connect:
 - 💼 linkedin.com/in/lisna-amanda-b7bb821b6
-- 📧 lisnaamanda019@gmail.com.com
+- 📧 lisnaamanda019@gmail.com
 
 ---
 
-> “Code isn’t just lines of syntax – it’s the bridge between ideas and impact.”
+
 
 Thanks for visiting my GitHub! 😊
